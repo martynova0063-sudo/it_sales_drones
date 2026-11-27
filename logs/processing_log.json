@@ -1,0 +1,12 @@
+{
+    "Seraphim_Drone_Dataset": {
+        "status": "COMPLETED",
+        "file_count": 83483,
+        "total_valid_bboxes": 86240
+    },
+    "Roboflow_COCO_Drone": {
+        "status": "COMPLETED",
+        "file_count": 11998,
+        "total_valid_bboxes": 9975
+    }
+}

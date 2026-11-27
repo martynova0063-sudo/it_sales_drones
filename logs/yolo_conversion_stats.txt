@@ -1,0 +1,8 @@
+--- YOLO Conversion Statistics ---
+Source CSV Rows: 178376
+Frame Skip N: 1
+Files Copied and Labeled: 178376
+Files Skipped by N: 0
+Files Skipped (No BBoxes Found): 0
+Files Skipped (Read Error/Corrupt): 0
+--------------------------------
