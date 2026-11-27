@@ -1,0 +1,10 @@
+{
+    "Seraphim_Drone_Dataset": {
+        "local_path": "datasets/drone_dataset_folder",
+        "archive_url": "https://drive.google.com/file/d/1uGjeA-ioehZAta8z9yftdzVF7dlUK5Qe/view?usp=drive_link",
+        "archive_type": "zip"
+    },
+    "Roboflow_COCO_Drone": {
+        "local_path": "datasets/coco json drone detection"
+    }
+}

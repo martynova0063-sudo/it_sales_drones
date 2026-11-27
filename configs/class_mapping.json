@@ -1,0 +1,47 @@
+{
+    "Seraphim_Drone_Dataset": {
+        "annotation_format": "YOLO",
+        "class_map": {
+            "0": {"target": "DRONE", "sub_class": "DRONE_UNKNOWN"}
+        },
+        "subsets_to_process": [
+            {
+                "name": "train",
+                "image_path_in_archive": "train/images",
+                "label_path_in_archive": "train/labels"
+            },
+            {
+                "name": "test",
+                "image_path_in_archive": "test/images",
+                "label_path_in_archive": "test/labels"
+            }
+        ]
+    },
+    "Roboflow_COCO_Drone": {
+        "annotation_format": "COCO",
+        "class_map": {
+            "0": {"target": "DRONE",     "sub_class": "Drone_Primary"},
+            "1": {"target": "NON_DRONE", "sub_class": "AirPlane"},
+            "2": {"target": "DRONE",     "sub_class": "Drone_Secondary"},
+            "3": {"target": "NON_DRONE", "sub_class": "Helicopter"},
+            "4": {"target": "NON_DRONE", "sub_class": "Bird"} 
+        },
+        "subsets_to_process": [
+            {
+                "name": "train",
+                "image_path_in_archive": "train",
+                "label_path_in_archive": "train/_annotations.coco.json"
+            },
+            {
+                "name": "test",
+                "image_path_in_archive": "test",
+                "label_path_in_archive": "test/_annotations.coco.json"
+            },
+            {
+                "name": "valid",
+                "image_path_in_archive": "valid",
+                "label_path_in_archive": "valid/_annotations.coco.json"
+            }
+        ]
+    }
+}

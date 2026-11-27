@@ -1,0 +1,249 @@
+{
+  "cameras": [
+    {
+      "id": "rtsp",
+      "name": "OBS RTSP Test Stream",
+      "page_url": "rtsp://localhost:8554/live",
+      "source_type": "RTSP"
+    },
+    {
+      "id": "rtmp",
+      "name": "OBS RTMP Test Stream",
+      "page_url": "rtmp://localhost:1935/live_rtmp",
+      "source_type": "RTMP"
+    },    
+    {
+      "id": "local",
+      "name": "Local Video File Test",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7567288786434919701_v2.mp4",
+      "source_type": "FILE",
+      "loop": false
+    },
+    {
+      "id": "local_2",
+      "name": "Local Video File Test-2",
+      "page_url": "file:///home/ayner/Загрузки/video_2026-02-09_20-11-57.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_3",
+      "name": "Local Video File Test-3",
+      "page_url": "file:///home/ayner/Загрузки/video-04-12-25-07-55.mov",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_4",
+      "name": "Local Video File Test-4",
+      "page_url": "file:///home/ayner/Загрузки/VID_20250611_171914.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_5",
+      "name": "Local Video File Test-5",
+      "page_url": "file:///home/ayner/Загрузки/VID_20250611_171128.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_6",
+      "name": "Local Video File Test-6",
+      "page_url": "file:///home/ayner/Загрузки/video-04-12-25-07-55-3.mov",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_7",
+      "name": "Local Video File Test-7",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7582922155881467148_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_8",
+      "name": "Local Video File Test-8",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7592560044344986892_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_9",
+      "name": "Local Video File Test-9",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7593310614429109515_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_10",
+      "name": "Local Video File Test-10",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7557722960543501575_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_11",
+      "name": "Local Video File Test-11",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7530429071486913814_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_12",
+      "name": "Local Video File Test-12",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7493836373909065015_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_13",
+      "name": "Local Video File Test-13",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7383802822317329707_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_14",
+      "name": "Local Video File Test-14",
+      "page_url": "file:///media/Cruiser/Downloads/snaptik_7370236606168452385_v3.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_15",
+      "name": "Local Video File Test-15",
+      "page_url": "file:////home/ayner/Загрузки/NP_001.MP4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "local_16",
+      "name": "Local Video File Test-16",
+      "page_url": "file:////home/ayner/Загрузки/IMG_0720.MP4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "89201",
+      "name": "Cпортивная площадка на ул. Капитана Маклакова",
+      "page_url": "https://moidom.citylink.pro/pub/89201",
+      "referer": "https://moidom.citylink.pro/pub/89201",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94854",
+      "name": "Полярные Зори ул. 19, перекресток у Охоты",
+      "page_url": "https://moidom.citylink.pro/pub/94854",
+      "referer": "https://moidom.citylink.pro/pub/94854",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94794",
+      "name": "Книповича ул. - Радищева ул.",
+      "page_url": "https://moidom.citylink.pro/pub/94794",
+      "referer": "https://moidom.citylink.pro/pub/94794",
+      "source_type": "HLS"
+    },
+    {
+      "id": "92919",
+      "name": "Капитана Копытова ул. - Кольский просп.",
+      "page_url": "https://moidom.citylink.pro/pub/92919",
+      "referer": "https://moidom.citylink.pro/pub/92919",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94916",
+      "name": "Пешеходный переход на Полярные Зори ул. 25-1",
+      "page_url": "https://moidom.citylink.pro/pub/94916",
+      "referer": "https://moidom.citylink.pro/pub/94916",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94866",
+      "name": "Полярные Зори ул. - Ленина просп.",
+      "page_url": "https://moidom.citylink.pro/pub/94866",
+      "referer": "https://moidom.citylink.pro/pub/94866",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94850",
+      "name": "Капитана Пономарёва ул. - Кольский просп.",
+      "page_url": "https://moidom.citylink.pro/pub/94850",
+      "referer": "https://moidom.citylink.pro/pub/94850",
+      "source_type": "HLS"
+    },
+    {
+      "id": "92567",
+      "name": "Кольский просп. - Баумана ул.",
+      "page_url": "https://moidom.citylink.pro/pub/92567",
+      "referer": "https://moidom.citylink.pro/pub/92567",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94379",
+      "name": "Бочкова ул. - Баумана ул.",
+      "page_url": "https://moidom.citylink.pro/pub/94379",
+      "referer": "https://moidom.citylink.pro/pub/94379",
+      "source_type": "HLS"
+    },
+    {
+      "id": "92564",
+      "name": "Достоевского ул. - Баумана ул.",
+      "page_url": "https://moidom.citylink.pro/pub/92564",
+      "referer": "https://moidom.citylink.pro/pub/92564",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94929",
+      "name": "Перекресток Баумана ул. - Щербакова ул.",
+      "page_url": "https://moidom.citylink.pro/pub/94929",
+      "referer": "https://moidom.citylink.pro/pub/94929",
+      "source_type": "HLS"
+    },
+    {
+      "id": "92386",
+      "name": "Кольский просп. - Героев Рыбачьего ул.",
+      "page_url": "https://moidom.citylink.pro/pub/92386",
+      "referer": "https://moidom.citylink.pro/pub/92386",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94098",
+      "name": "Пешеходный переход на ул. Героев Рыбачьего д.38",
+      "page_url": "https://moidom.citylink.pro/pub/94098",
+      "referer": "https://moidom.citylink.pro/pub/94098",
+      "source_type": "HLS"
+    },
+    {
+      "id": "92576",
+      "name": "Крупской ул. - Героев Рыбачьего ул.",
+      "page_url": "https://moidom.citylink.pro/pub/92576",
+      "referer": "https://moidom.citylink.pro/pub/92576",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94941",
+      "name": "Перекресток Зои Космодемьянской ул.",
+      "page_url": "https://moidom.citylink.pro/pub/94941",
+      "referer": "https://moidom.citylink.pro/pub/94941",
+      "source_type": "HLS"
+    },
+    {
+      "id": "94492",
+      "name": "Парк Сказка",
+      "page_url": "https://moidom.citylink.pro/pub/94492",
+      "referer": "https://moidom.citylink.pro/pub/94492",
+      "source_type": "HLS"
+    },
+    {
+      "id": "birds_001",
+      "name": "Local Video birds_001",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_001.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "birds_002",
+      "name": "Local Video birds_002",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_002.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "birds_003",
+      "name": "Local Video birds_003",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_003.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "birds_004",
+      "name": "Local Video birds_004",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_004.mp4",
+      "source_type": "FILE"
+    }
+  ]
+}

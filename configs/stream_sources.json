@@ -1,0 +1,22 @@
+{
+  "cameras": [
+    {
+      "id": "birds_005",
+      "name": "Local Video birds_005",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_005.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "birds_006",
+      "name": "Local Video birds_006",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_006.mp4",
+      "source_type": "FILE"
+    },
+    {
+      "id": "birds_007",
+      "name": "Local Video birds_007",
+      "page_url": "file:///media/Cruiser/github/It_sales_drones/ALeksey_Kozlov/datasets/video/birds_007.mp4",
+      "source_type": "FILE"
+    }
+  ]
+}
