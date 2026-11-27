@@ -1,0 +1,26 @@
+# requirements.txt
+
+opencv-python
+scipy
+numpy
+pandas
+Pillow
+imagehash
+kagglehub
+huggingface_hub
+tqdm
+
+# secrets
+python-dotenv
+
+# video-detector
+ultralytics
+gradio
+selenium
+requests
+fastapi
+uvicorn
+python-multipart
+
+# Система Ноды-ПУ
+pyngrok
